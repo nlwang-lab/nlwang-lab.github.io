@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Quantum Mechanics</title>
+      <link href="/2023/03/10/Quantum-Mechanics/"/>
+      <url>/2023/03/10/Quantum-Mechanics/</url>
+      
+        <content type="html"><![CDATA[<p>The non-relativistic quantum mechanics is described by Schordinger Equations:</p><p>$$<br>i\hbar \frac{\partial}{\partial t} \psi(\vec{r},t) = \hat{H} \psi(\vec{r}, t)<br>$$</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Group Website Created</title>
+      <link href="/2023/03/10/Group-Website-Created/"/>
+      <url>/2023/03/10/Group-Website-Created/</url>
+      
+        <content type="html"><![CDATA[<p>This is our first post on group webpages. More is coming…</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
